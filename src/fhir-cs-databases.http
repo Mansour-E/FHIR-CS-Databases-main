@@ -1,0 +1,6 @@
+@fhir_cs_databases_HostAddress = http://localhost:5143
+
+GET {{fhir_cs_databases_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
